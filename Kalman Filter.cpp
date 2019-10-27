@@ -76,7 +76,7 @@ void filter(VectorXd &x, MatrixXd &P) {
 	for (unsigned int n = 0; n < measurements.size(); ++n) {
 
 		VectorXd z = measurements[n];
-		// TODO: YOUR CODE HERE
+		
 		/**
 		* KF Measurement update step
 		*/
