@@ -1,3 +1,3 @@
 # Kalman-Filter
 
-This will a collection of Kalman filter codes in C++
+This a collection of Kalman filter codes written in C++
