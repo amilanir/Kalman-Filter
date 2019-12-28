@@ -19,7 +19,7 @@ using std::vector;
 int main() {
 
   /**
-   * Set Measurements
+   * Set Measurements in the code
    */
   vector<MeasurementPackage> measurement_pack_list;
 
